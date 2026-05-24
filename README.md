@@ -72,29 +72,6 @@ EcoTracker empowers you to take charge of your carbon footprint by making sustai
 
 ---
 
-## 📸 **Screenshots**
-
-### Dashboard & User Interface
-
-<div align="center">
-
-**Web Dashboard**
-<br>
-<img src="assets/screenshots/dashboard-web.png" alt="Web Dashboard" width="80%">
-
-<br><br>
-
-**Mobile Dashboard**
-<br>
-<img src="assets/screenshots/dashboard-mobile.png" alt="Mobile Dashboard" width="50%">
-
-<br><br>
-
-**Dashboard Overview**
-<br>
-<img src="assets/screenshots/dashboard-1.png" alt="Dashboard Overview" width="80%">
-
-<br><br>
 
 **Live Application Preview**
 <br>
@@ -453,9 +430,6 @@ heroku config:set DATABASE_URL=your_database_url
 ## 📄 **License**
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
 
 ---
 
