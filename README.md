@@ -61,30 +61,6 @@ The platform leverages real-time GPS tracking combined with geospatial analysis 
 
 EcoTracker empowers you to take charge of your carbon footprint by making sustainability visible, measurable, and rewarding. Whether you're cycling to work, taking public transit, or walking, every ec[...]
 
----
-
-## 📸 **Screenshots**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <h4>🏠 Home & Trip Start</h4>
-        <img src="assets/screenshots/home-screen.png" alt="Home Screen" width="100%">
-        <p><small>Initialize your commute with GPS tracking</small></p>
-      </td>
-      <td width="33%">
-        <h4>📊 Dashboard (Web)</h4>
-        <img src="assets/screenshots/dashboard-web.png" alt="Dashboard Web" width="100%">
-        <p><small>Comprehensive metrics and live tracking visualization</small></p>
-      </td>
-      <td width="33%">
-        <h4>📱 Dashboard (Mobile)</h4>
-        <img src="assets/screenshots/dashboard-mobile.png" alt="Dashboard Mobile" width="100%">
-        <p><small>Responsive mobile interface with real-time updates</small></p>
-      </td>
-    </tr>
-  </table>
   
   ### Key Metrics Displayed:
   - **🟢 Eco Points** – Gamified rewards for sustainable commuting
@@ -445,20 +421,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-## 📞 **Support & Contact**
-
-- **Issues** – [GitHub Issues](https://github.com/chaudharypriyanshi09/EcoTRACKER/issues)
-- **Discussions** – [GitHub Discussions](https://github.com/chaudharypriyanshi09/EcoTRACKER/discussions)
-- **Email** – (Add your contact email)
 
 ---
 
-## 🎉 **Acknowledgments**
-
-- Built with ❤️ for Earth and active transportation
-- Thanks to all contributors and supporters
-- Special thanks to the open-source community for amazing tools like React, Framer Motion, and Flask
-
----
-
-**Made with 🌱 and ❤️ by [Priyankshi Chaudhary](https://github.com/chaudharypriyanshi09)**
+**Made by [Priyanshi Chaudhary](https://github.com/chaudharypriyanshi09)**
