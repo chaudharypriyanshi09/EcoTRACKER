@@ -69,6 +69,41 @@ EcoTracker empowers you to take charge of your carbon footprint by making sustai
   - **📈 Weekly Progress** – Daily CO₂ savings visualization
   - **🗺️ Live Map** – Active transport mode detection and route visualization
   - **💡 Eco Tips** – Contextual sustainability tips and health insights
+
+---
+
+## 📸 **Screenshots**
+
+### Dashboard & User Interface
+
+<div align="center">
+
+**Web Dashboard**
+<br>
+<img src="assets/screenshots/dashboard-web.png" alt="Web Dashboard" width="80%">
+
+<br><br>
+
+**Mobile Dashboard**
+<br>
+<img src="assets/screenshots/dashboard-mobile.png" alt="Mobile Dashboard" width="50%">
+
+<br><br>
+
+**Dashboard Overview**
+<br>
+<img src="assets/screenshots/dashboard-1.png" alt="Dashboard Overview" width="80%">
+
+<br><br>
+
+**Live Application Preview**
+<br>
+<img src="assets/screenshots/Gemini_Generated_Image_amcgt4amcgt4amcg.png" alt="Application Preview 1" width="80%">
+
+<br><br>
+
+<img src="assets/screenshots/Gemini_Generated_Image_ds4dvods4dvods4d.png" alt="Application Preview 2" width="80%">
+
 </div>
 
 ---
@@ -103,7 +138,7 @@ EcoTracker empowers you to take charge of your carbon footprint by making sustai
 </td>
 <td width="50%">
  <h3>📈 Framer Motion Dashboard</h3>
- <p>Highlights your achievements—like total carbon saved and calories burned—using ultra-smooth, visually appealing micro-interactions and animations built with <strong>Framer Motion</strong>. Data[...]
+ <p>Highlights your achievements—like total carbon saved and calories burned—using ultra-smooth, visually appealing micro-interactions and animations built with <strong>Framer Motion</strong>. Dat[...]
 </td>
 </tr>
 </table>
