@@ -38,6 +38,7 @@ A sleek, high-fidelity sustainability mobile application built to encourage low-
 ## 📋 **Table of Contents**
 
 - [Core Concept](#-core-concept)
+- [Screenshots](#-screenshots)
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
 - [Carbon Calculation Model](#📐-the-carbon-calculation-regression-model)
@@ -54,11 +55,45 @@ A sleek, high-fidelity sustainability mobile application built to encourage low-
 
 ## 🎯 **Core Concept**
 
-Individual commute choices often feel completely detached from personal environmental impact. **EcoTracker** bridges this gap using advanced mobile ICT architecture to make users consciously aware of the environmental consequences of their daily transportation decisions.
+Individual commute choices often feel completely detached from personal environmental impact. **EcoTracker** bridges this gap using advanced mobile ICT architecture to make users consciously aware of [...]
 
-The platform leverages real-time GPS tracking combined with geospatial analysis to monitor commute patterns and calculate precise carbon emissions. By converting real-time movement data into transparent, actionable milestones and achievements, the application functions on the principle of **behavioral stimulation**—encouraging sustainable choices through gamification and personalized insights.
+The platform leverages real-time GPS tracking combined with geospatial analysis to monitor commute patterns and calculate precise carbon emissions. By converting real-time movement data into transpare[...]
 
-EcoTracker empowers you to take charge of your carbon footprint by making sustainability visible, measurable, and rewarding. Whether you're cycling to work, taking public transit, or walking, every eco-friendly choice contributes to a lower-emission future.
+EcoTracker empowers you to take charge of your carbon footprint by making sustainability visible, measurable, and rewarding. Whether you're cycling to work, taking public transit, or walking, every ec[...]
+
+---
+
+## 📸 **Screenshots**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h4>🏠 Home & Trip Start</h4>
+        <img src="assets/screenshots/home-screen.png" alt="Home Screen" width="100%">
+        <p><small>Initialize your commute with GPS tracking</small></p>
+      </td>
+      <td width="33%">
+        <h4>📊 Dashboard (Web)</h4>
+        <img src="assets/screenshots/dashboard-web.png" alt="Dashboard Web" width="100%">
+        <p><small>Comprehensive metrics and live tracking visualization</small></p>
+      </td>
+      <td width="33%">
+        <h4>📱 Dashboard (Mobile)</h4>
+        <img src="assets/screenshots/dashboard-mobile.png" alt="Dashboard Mobile" width="100%">
+        <p><small>Responsive mobile interface with real-time updates</small></p>
+      </td>
+    </tr>
+  </table>
+  
+  ### Key Metrics Displayed:
+  - **🟢 Eco Points** – Gamified rewards for sustainable commuting
+  - **💨 CO₂ Saved** – Real-time carbon emissions tracking
+  - **🔥 Calories Burned** – Health metrics alongside environmental data
+  - **📈 Weekly Progress** – Daily CO₂ savings visualization
+  - **🗺️ Live Map** – Active transport mode detection and route visualization
+  - **💡 Eco Tips** – Contextual sustainability tips and health insights
+</div>
 
 ---
 
@@ -68,31 +103,31 @@ EcoTracker empowers you to take charge of your carbon footprint by making sustai
 <tr>
 <td width="50%">
  <h3>🚴 Automated Trip Recognition</h3>
- <p>Tracks location, speed, and routes using a combined <strong>Geohash-GIS spatial approach</strong> along with GPS to automatically identify transport modes (walking, cycling, or motorized) in real-time. No manual logging required—your commute is tracked seamlessly.</p>
+ <p>Tracks location, speed, and routes using a combined <strong>Geohash-GIS spatial approach</strong> along with GPS to automatically identify transport modes (walking, cycling, or motorized) in real-[...]
 </td>
 <td width="50%">
  <h3>☁️ Real-Time Carbon Tracking</h3>
- <p>Calculates precise carbon emissions for each individual trip made, displaying your cumulative CO₂ savings and benchmarking metrics at personal and community levels. Understand exactly how much you're contributing to a cleaner planet.</p>
+ <p>Calculates precise carbon emissions for each individual trip made, displaying your cumulative CO₂ savings and benchmarking metrics at personal and community levels. Understand exactly how much y[...]
 </td>
 </tr>
 <tr>
 <td width="50%">
  <h3>🪙 Gamified "Eco Points"</h3>
- <p>Earn points based on the carbon you save by avoiding motorized vehicles. Eco Points can be accumulated to unlock special profile badges, custom certificates, and even redeemed for real-world rewards through partner organizations.</p>
+ <p>Earn points based on the carbon you save by avoiding motorized vehicles. Eco Points can be accumulated to unlock special profile badges, custom certificates, and even redeemed for real-world rewar[...]
 </td>
 <td width="50%">
  <h3>💡 Sustainability Prompts</h3>
- <p>Contextual <strong>Environmental Education Prompts</strong> pop up on screen to provide instant sustainability tips, health modules, and fitness challenges. Learn while you commute and build eco-conscious habits.</p>
+ <p>Contextual <strong>Environmental Education Prompts</strong> pop up on screen to provide instant sustainability tips, health modules, and fitness challenges. Learn while you commute and build eco-c[...]
 </td>
 </tr>
 <tr>
 <td width="50%">
  <h3>🔥 Health & Biometric Insights</h3>
- <p>Monitors physical wellness side-by-side with environmental metrics by logging your total calories burned and delivering context-aware health insights. See how active transportation benefits both you and the planet.</p>
+ <p>Monitors physical wellness side-by-side with environmental metrics by logging your total calories burned and delivering context-aware health insights. See how active transportation benefits both y[...]
 </td>
 <td width="50%">
  <h3>📈 Framer Motion Dashboard</h3>
- <p>Highlights your achievements—like total carbon saved and calories burned—using ultra-smooth, visually appealing micro-interactions and animations built with <strong>Framer Motion</strong>. Data visualization that inspires action.</p>
+ <p>Highlights your achievements—like total carbon saved and calories burned—using ultra-smooth, visually appealing micro-interactions and animations built with <strong>Framer Motion</strong>. Data[...]
 </td>
 </tr>
 </table>
@@ -118,7 +153,7 @@ EcoTracker empowers you to take charge of your carbon footprint by making sustai
 
 The app's intelligent carbon calculation is driven by a **multiple linear regression model** that estimates exact baseline CO₂ emissions based on specific vehicle characteristics:
 
-$$\text{CO}_2\text{Emissions} = 183.55 + 70.49 \cdot \text{Mass\_Kg} - 38.67 \cdot \text{vehicle\_type\_M1} - 28.90 \cdot \text{vehicle\_type\_M1G} - 15.25 \cdot \text{vehicle\_type\_MASTER} - 16.26 \cdot \text{vehicle\_type\_N1} + 43.99 \cdot \text{fuel\_petrol} + 42.98 \cdot \text{fuel\_E85} + 28.45 \cdot \text{fuel\_diesel} - 12.34 \cdot \text{fuel\_lpg}$$
+$$\text{CO}_2\text{Emissions} = 183.55 + 70.49 \cdot \text{Mass\_Kg} - 38.67 \cdot \text{vehicle\_type\_M1} - 28.90 \cdot \text{vehicle\_type\_M1G} - 15.25 \cdot \text{vehicle\_type\_MASTER} - 16.26 \[...]
 
 ### Variable Parameter Breakdown:
 
@@ -140,7 +175,7 @@ $$\text{CO}_2\text{Emissions} = 183.55 + 70.49 \cdot \text{Mass\_Kg} - 38.67 \cd
 
 ### How Carbon Savings Are Calculated:
 
-When a user completes a trip via walking, cycling, or public transit, the app calculates what the emissions **would have been** with a standard vehicle, then credits the user with those avoided emissions as "carbon savings."
+When a user completes a trip via walking, cycling, or public transit, the app calculates what the emissions **would have been** with a standard vehicle, then credits the user with those avoided emissi[...]
 
 ---
 
@@ -199,7 +234,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/chaudharypriyanshi09/EcoTRACKER.git
+git clone https://github.com/chaudharypriyanski09/EcoTRACKER.git
 cd EcoTRACKER
 ```
 
@@ -320,6 +355,9 @@ EcoTRACKER/
 ├── assets/
 │   ├── logo.png
 │   ├── screenshots/
+│   │   ├── home-screen.png
+│   │   ├── dashboard-web.png
+│   │   └── dashboard-mobile.png
 │   └── ...
 │
 ├── docs/                      # Documentation
