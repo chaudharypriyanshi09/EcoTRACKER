@@ -32,7 +32,7 @@ A sleek, high-fidelity sustainability mobile application built to encourage low-
 
 ---
 
-## 🎯 **Core Concept**
+##  **Core Concept**
 
 Individual commute choices often feel completely detached from personal environmental impact. **EcoTracker** bridges this gap using advanced mobile ICT architecture to make users consciously aware of their ecological footprint. 
 
@@ -40,7 +40,7 @@ By converting real-time movement data into transparent, actionable milestones, t
 
 ---
 
-## ✨ **Key Features**
+##  **Key Features**
 
 <table>
 <tr>
@@ -55,17 +55,17 @@ By converting real-time movement data into transparent, actionable milestones, t
 </tr>
 <tr>
 <td width="50%">
- <h3>🪙 Gamified "Eco Points"</h3>
+ <h3> Gamified "Eco Points"</h3>
  <p>Earn points based on the carbon you save by avoiding motorized vehicles[cite: 1]. Eco Points can be accumulated to unlock special profile badges, custom certificates, and even redeemed for real monetary benefits[cite: 1].</p>
 </td>
 <td width="50%">
- <h3>💡 Sustainability Prompts</h3>
+ <h3> Sustainability Prompts</h3>
  <p>Contextual <strong>Environmental Education Prompts</strong> pop up on screen to provide instant sustainability tips, health modules, and fitness challenges[cite: 1].</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
- <h3>🔥 Health & Biometric Insights</h3>
+ <h3> Health & Biometric Insights</h3>
  <p>Monitors physical wellness side-by-side with environmental metrics by logging your total calories burned and delivering context-aware health insights[cite: 1].</p>
 </td>
 <td width="50%">
